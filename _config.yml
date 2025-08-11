@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN" # the locale for your site, e.g. "en-US", "zh-CN", "fr-FR"
+locale                   : "en-US" # the locale for your site, e.g. "en-US", "zh-CN", "fr-FR"
 title                    : # "Your Name / Site Title"
 title_separator          : # "-"
 name                     : &name "Xingjian Lu(路行简)" # the name of the site owner, e.g. "John Doe"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           : "profile.png"
   name             : "Xingjian Lu(路行简)"
   # pronouns         : "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
